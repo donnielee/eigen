@@ -4,7 +4,3 @@ For more information go to http://eigen.tuxfamily.org/.
 
 For ***pull request***, ***bug reports***, and ***feature requests***, go to https://gitlab.com/libeigen/eigen.
 # eigen
-# eigen
-# eigen
-# eigen
-# eigen
